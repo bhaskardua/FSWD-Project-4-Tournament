@@ -1,4 +1,4 @@
-# README
+# Tournament
 
 Download the Tournament source code files from [this link](https://github.com/bhaskardua/FSWD-Project-4-Tournament/archive/master.zip).
 
@@ -32,6 +32,6 @@ If all goes well you should see the following output:
 	9. Matches are properly deleted.
 	10. After one match, players with one win are properly paired.
 	Success!  All tests pass!
-	
+
 
 
